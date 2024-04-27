@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp_exception_exercicios", "csharp_exception_exercicios\csharp_exception_exercicios.csproj", "{6DC25A03-FAC5-4836-852B-D4D6244F371E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DC25A03-FAC5-4836-852B-D4D6244F371E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DC25A03-FAC5-4836-852B-D4D6244F371E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DC25A03-FAC5-4836-852B-D4D6244F371E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DC25A03-FAC5-4836-852B-D4D6244F371E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70F67320-D15D-49C8-901B-1F10AC01C0BD}
+	EndGlobalSection
+EndGlobal
